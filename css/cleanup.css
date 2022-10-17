@@ -1,1 +1,27 @@
 /* write your override styles here */
+#wall {
+  margin: 50px auto;
+  width: 1000px;
+  height: 650px;
+  border: 5px solid tomato;
+  border-bottom: 29px solid tomato;
+}
+#tag-2 {
+  background: url(../images/tag-2.png) no-repeat;
+  z-index: 5;
+}
+#tag-3.slick {
+  background: url(../images/tag-3.png) no-repeat;
+  z-index: 6;
+  display: block;
+}
+#tag-4 {
+  background: url(../images/tag-4.png) no-repeat;
+  z-index: 3;
+  display: block;
+}
+#tag-5.slick {
+  background: url(../images/tag-5.png) no-repeat;
+  z-index: 4;
+  display: block;
+}
